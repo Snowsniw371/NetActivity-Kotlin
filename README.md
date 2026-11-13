@@ -25,7 +25,3 @@ Download the signed `app-release.apk` from the **[Releases](../../releases)** pa
 - **UI:** Material Components for Android (Material 3 / Dynamic Colors)
 - **Concurrency:** Java `ExecutorService` & `Handler`
 - Built entirely on a smartphone using **Code on the Go**.
-
-## License
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
-
